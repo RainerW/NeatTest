@@ -1,0 +1,6 @@
+[submodule "NeatTestLib"]
+	path = NeatTestLib
+	url = git@github.com:RainerW/NeatTestLib.git
+[submodule "NeatTestSamples"]
+	path = NeatTestSamples
+	url = git@github.com:RainerW/NeatTestSamples.git
